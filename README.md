@@ -41,7 +41,7 @@
 
 
 <!-- about the project section -->
-##About The Project
+## About The Project
 
 As a first try to make a git repository, this project can't offer you anything more relevent than a Hello World!
 
@@ -49,16 +49,16 @@ As a first try to make a git repository, this project can't offer you anything m
 [![Product Name Screen Shot][product-screenshot]][contributors-url]
 
 
-##Build With
+## Build With
 Pure heart and some cpp of course
 
-##Getting Started
+## Getting Started
 Just clone the repo and compile the file
 
-###Prerequisites
+### Prerequisites
 Just a cpp compiler
 
-###Instalation
+### Instalation
 Open terminal and write down: 
 <!-- language: lang-or-tag-here -->
     g++ -o program.exe hello_world.cpp 
@@ -66,14 +66,14 @@ Open terminal and write down:
 
 done.
 
-##usage
+## usage
 Printing out hello world on screen.(painful way)
 
-##License
+## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-##recent updates
+## recent updates
 .o and .exe file extensions added to ignore list.
 
 <!-- links -->
