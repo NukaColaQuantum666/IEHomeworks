@@ -5,10 +5,7 @@ All completed IE homeworks will be uploaded here!
 Open powershell
 write : 
 <code>
-  g++ -o program.exe hello_world.cpp <br>
-  ./program.exe <br>
+  g++ -o program.exe hello_world.cpp
+  ./program.exe
 </code>
-done. <br>
-
-# Git actions 
-.o file extension added to ignore list.
+done.
