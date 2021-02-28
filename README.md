@@ -35,47 +35,46 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#recent updates">Recent Updates</a></li>
+    <li><a href="#recent-updates">Recent Updates</a></li>
   </ol>
 </details>
 
 
 <!-- about the project section -->
 ##About The Project
-<p>
+
 As a first try to make a git repository, this project can't offer you anything more relevent than a Hello World!
-</p>
+
 
 [![Product Name Screen Shot][product-screenshot]][contributors-url]
 
 
 ##Build With
-<p>Pure heart and some cpp of course</p>
+Pure heart and some cpp of course
 
 ##Getting Started
-<p>Just clone the repo and compile the file</p>
+Just clone the repo and compile the file
 
 ###Prerequisites
-<p>Just a cpp compiler</p>
+Just a cpp compiler
 
 ###Instalation
-Open powershell
-write : 
-<code>
-  g++ -o program.exe hello_world.cpp 
-  ./program.exe <br>
-</code>
-done. <br>
+Open terminal and write down: 
+<!-- language: lang-or-tag-here -->
+    g++ -o program.exe hello_world.cpp 
+    ./program.exe
+
+done.
 
 ##usage
-<p>Printing out hello world on screen.(painful way)</p>
+Printing out hello world on screen.(painful way)
 
 ##License
-<p>Distributed under the MIT License. See `LICENSE` for more information.</p>
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 ##recent updates
-<p>.o and .exe file extensions added to ignore list.</p>
+.o and .exe file extensions added to ignore list.
 
 <!-- links -->
 [contributors-shield]: https://img.shields.io/badge/contributors-1-blue?style=for-the-badge&logo=appveyor
